@@ -1,0 +1,12 @@
+apple
+4
+Thu Nov 12 00:42:43 ALMT 2020
+apple
+4
+Thu Nov 12 03:42:43 ALMT 2020
+cheese
+10
+Thu Nov 12 10:42:43 ALMT 2020
+cheese
+10
+Thu Nov 12 15:43:25 ALMT 2020
